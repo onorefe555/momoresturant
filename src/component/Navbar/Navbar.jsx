@@ -4,7 +4,8 @@ import "./navbar.css";
 // import {MdOutlineRestaurantMenu} from "react-icons/md"
 import Images from "../../constant/Images"
 import {RiMenu3Line, RiCloseLine} from "react-icons/ri";
-
+import { Link } from "react-router-dom";
+import Footers from "../Footers/Footers";
 
 
 const Navbar=()=>{
