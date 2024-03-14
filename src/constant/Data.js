@@ -2,7 +2,7 @@ import react from "react";
 const Data =({text, line})=>{
     return(
         <div>
-            <p>{text} <span className="span"></span></p>
+            <p>{text}{line} <span className=""></span></p>
         </div>
     )
 }

@@ -17,12 +17,12 @@ const Specialmenu =()=>{
                          <p className="app__specialmenu-menu-heading">Wine & Beer</p> 
 
                           <div className="app__specialmenu-menu-item">
-                            <Data text="Calcium    ________________________   10%"/>
-                            <Data text="Magnesium  _______________________   30%"/>
-                            <Data text="Phosorous  _______________________   50%"/>
-                            <Data text="Potasium   _________________________   70%"/>
-                            <Data text="Lithium    _________________________   80%"/>
-                            <Data text="Lithium    _________________________   100%"/>
+                            <Data text="Calcium    " line=" _________   10%"/> 
+                            <Data text="Magnesium " line=" _______  30%"/>
+                            <Data text="Phosorous " line=" _________   50%"/>
+                            <Data text="Potasium  "line=" _________   70%"/>
+                            <Data text="Lithium"line=" _________   80%"/>
+                            <Data text="Lithium"line=" _________   100%"/>
                           </div>                   
                     </div> 
 

@@ -5,7 +5,7 @@ import {Data, Images} from "./constant";
 import {Aboutus, Chef,  Findus, Footer, Gallary, Header, Menu, Specialmenu, Intro, Laurel  } from "./container"
 // import {BrowserRouter, Routes, Route} from "react-dom"
 import {BrowserRouter, useRoutes, Routes, Route} from "react-router-dom"
-  
+import  Gallarys  from "./container/Gallary/Gallary";  
 const App =()=>{
     return(
         <div>
@@ -17,7 +17,8 @@ const App =()=>{
              <Chef/>
              <Intro/>
              <Laurel/>
-             <Gallary/>
+             {/* <Gallary/> */}
+             <Gallarys/>
             <Findus/>
             <Footers/>
         </div>
