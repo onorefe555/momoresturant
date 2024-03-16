@@ -23,8 +23,9 @@
 }
 .app__chef-specialtext p{
     color: var(--color-white);
-    font-size: 22px;
-    line-height: 50px;
+    font-size: 18px;
+    line-height: 40px;
+    letter-spacing: 1px;
 }
 @media screen and (max-width:650px) {
     .app__bg{

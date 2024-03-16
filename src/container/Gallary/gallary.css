@@ -81,6 +81,41 @@
     background-color: var(--color-black);
     
 }
+@media screen and (min-width:2000px) {
+    .app__gallary-content{
+        min-width: 600px;
+        padding-right: 4rem;
+    }
+    .app__gallary-images-card{
+        min-width: 400px;
+        height: 550px;
+    }
+}
+@media screen and (max-width:1150px) {
+    .app__gallary-content{
+        flex-direction: column;
+    }
+    .app__gallary-images{
+        min-width: 203px;
+        margin: 5rem 0;
+    }
+}
+@media screen and (max-width:850px) {
+    .app__gallary{
+        padding: 4rem 0 4rem 4rem;
+    }
+}
+@media screen and (max-width:650px) {
+    .app__gallary-content{
+        min-width: 100%;
+    }
+    .app__gallary-images-card{
+        min-width: 100%;
+    }
+    .app__gallary{
+        flex-direction: column;
+    }
+}
 
 
 

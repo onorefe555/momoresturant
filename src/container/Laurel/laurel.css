@@ -10,8 +10,8 @@
     width: 100%;
 }
 .app__wrapper-info img{
-    width: 20px;
-    height: 38px;
+    width: 16px;
+    height: 35px;
     margin-right: 0.7rem;
 }
 .app__wrapper-info .p__cormorant{
@@ -45,8 +45,8 @@
     /* width: 30%; */
 }
 .app__ward-testimony p{
-    font-size: 18px;
-    line-height: 35px;
+    font-size: 15px;
+    line-height: 30px;
     letter-spacing: 1px;
     color: var(--color-white);
 }
@@ -60,8 +60,8 @@
     flex-direction: row; 
 }
 .app__ward-testimony-rowtwo-text p{
-    font-size: 18px;
-    line-height: 35px;
+    font-size: 15px;
+    line-height: 30px;
     letter-spacing: 1px;
     color: var(--color-white);
 }
@@ -93,9 +93,10 @@
     .app__bg{
         padding: 0.1rem;
     }
-    .app__award-testimon-rowtwo, .app__award-testimon-rowtwo{
+    .app__award-testimon-rowtwo, .app__award-testimon-rowone{
         margin: 0.9rem;
         padding: 0;
+        flex-direction: column;
     }
     .app__wraper-img img{
          visibility: visible;

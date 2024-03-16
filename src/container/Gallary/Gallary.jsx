@@ -70,7 +70,7 @@ imaageIndexes++
       <div className="app__gallary-content">
            <Subheading title="Instagram"/>
            <h1 className="headtext__comorrant">Photo Gallary</h1>
-           <p className="p__opensans" style={{color: "#aaaa", marginTop :"2rem"}}>Winding
+           <p className="p__opensans" style={{color: "#aaaa", marginTop :"2rem", fontSize:"18px", lineHeight: "33px", letterSpacing:"1"}}>Winding
             up, we can go over the main points of this unit. The Structured Query 
             Language (SQL) is regarded as the standard relational data
            base language. A typical SQL consists of several parts which include: Data definition
