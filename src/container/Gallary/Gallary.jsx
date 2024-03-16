@@ -69,7 +69,7 @@ imaageIndexes++
       <div className="app__gallary flex__center">
       <div className="app__gallary-content">
            <Subheading title="Instagram"/>
-           <h1 className="headtext__comorrant">Photo Gallary</h1>
+           <h1 className="headtext__comorrant" style={{color:"#dcca87"}}>Photo Gallary</h1>
            <p className="p__opensans" style={{color: "#aaaa", marginTop :"2rem", fontSize:"18px", lineHeight: "33px", letterSpacing:"1"}}>Winding
             up, we can go over the main points of this unit. The Structured Query 
             Language (SQL) is regarded as the standard relational data

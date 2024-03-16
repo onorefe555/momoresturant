@@ -38,6 +38,7 @@
   border-radius: 0.2rem;
   font-family: var(--font-base);
   cursor: pointer;
+  background-color: #dcca87;
 
 }
 .app__header img{

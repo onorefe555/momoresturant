@@ -18,7 +18,7 @@ const AwardCard =({Award:{imgURL, title, subtitle}})=>{
 const AwardCards =({Award, Awardtext})=>{
     return(
         <div>   
-            <h3>{Award}</h3>
+            <h3 style={{color:"#ddca87"}}>{Award}</h3>
             <p className="award-text">{Awardtext}</p>
         </div>
     )
@@ -26,7 +26,7 @@ const AwardCards =({Award, Awardtext})=>{
 
 const Laurel =()=>{
     return(
-        <div className="app__bg app__wrapper section__padding " id="">
+        <div className="app__bg app__wrapper section__padding " id="Awards">
             <div className="app__wrapper-info">
                   <Subheading  title="Award and recongnition"/>
 

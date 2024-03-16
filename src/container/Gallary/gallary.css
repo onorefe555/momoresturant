@@ -19,6 +19,7 @@
     padding: 0.5rem;
     cursor: pointer;
     font-size: 14px;
+    background-color: #ddca87;
 }
 .app__gallary-images{
     display: flex;

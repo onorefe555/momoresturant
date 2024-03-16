@@ -19,7 +19,7 @@ const App =()=>{
              <Laurel/>
              {/* <Gallary/> */}
              <Gallarys/>
-            <Findus/>
+            <Findus />
             <Footers/>
         </div>
     )
