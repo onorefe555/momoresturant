@@ -126,6 +126,7 @@ scroll-behavior: smooth;
         flex-direction: column;
         /* margin-right: -0.7rem; */
         width: 100%;
+        padding: 0rem 0rem;
     }
     .app__aboutus-content-about p, .app__aboutus-content-history p{
         font-size: 15px;

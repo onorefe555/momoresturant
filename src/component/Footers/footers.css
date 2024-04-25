@@ -1,0 +1,42 @@
+.app__newsletter-container{
+background: rgba(0, 0, 0, 0.884);
+padding: 2rem 5rem;
+
+}
+.app__newsletter{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+    border:  solid #dcca87 2px;
+}
+.app__newsletter p{
+    color: #ffffffe0;
+    font-size: 20px;
+    padding: 1rem;
+}
+.app__newsletter h1{
+    font-size: 45px;
+    color: #dcca87ee;
+}
+.app__newsletter-input{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    align-items: center;
+    margin: 2rem 4rem;
+}
+.app__newsletter-input input{
+    width: 80%;
+    padding: 1rem;
+    color: #ffffffaf;
+}
+.app__newsletter-input button{
+    padding: 1rem;
+    width: 25%;
+    background-color: #dcca87;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    color:#;
+}

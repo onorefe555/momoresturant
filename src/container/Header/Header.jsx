@@ -3,6 +3,7 @@ import "./header.css"
 import { Images } from "../../constant";
 import { Subheading } from "../../component";
 import chickenrepublic from "../../constant/asset/chickenrepublic.jpg"
+
 const Header= ()=>{
 return(
     <div className="app__header app__wrapper section__padding" id="home">
