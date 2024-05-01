@@ -21,6 +21,7 @@ const App =()=>{
              <Gallarys/>
             <Findus />
             <Footers/>
+            <Footer/>
         </div>
     )
 }
